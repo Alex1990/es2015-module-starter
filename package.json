@@ -4,6 +4,7 @@
   "description": "A boilerplate for developing es2015+ module quickly",
   "main": "index.js",
   "scripts": {
+    "babel": "babel ./src --out-file dist/${npm_package_name}.js --source-maps",
     "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
