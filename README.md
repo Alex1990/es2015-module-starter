@@ -1,2 +1,2 @@
 # es2015-module-starter
-A boilerplate for developing es2015+ module quickly
+A boilerplate for developing es2015+ web modules quickly
