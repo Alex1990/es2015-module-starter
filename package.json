@@ -11,7 +11,7 @@
     "coveralls": "npm run cover && cat coverage/lcov.info | coveralls",
     "lint": "eslint .",
     "test": "npm run lint && mocha --compilers js:babel-core/register",
-    "uglify": "uglifyjs dist/${npm_package_name}.js --compress --mangle --output dist/${npm_package_name}.min.js --source-map dist/${npm_package_name}.min.js.map --in-source-map dist/${npm_package_name}.js.map"
+    "uglify": "uglifyjs dist/${npm_package_name}.js --compress --mangle --output dist/${npm_package_name}.min.js --source-map-url ${npm_package_name}.min.js.map --source-map dist/${npm_package_name}.min.js.map --in-source-map dist/${npm_package_name}.js.map"
   },
   "repository": {
     "type": "git",
