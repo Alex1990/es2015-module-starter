@@ -11,3 +11,7 @@ With this starter help, you can use the modern JavaScript to develop an module q
 - Bundle with Browserify and UglifyJs
 - Code coverage with istanbul and coveralls
 - Travis CI 
+
+## LICENSE
+
+MIT
