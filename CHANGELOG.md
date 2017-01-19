@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## v0.2.0
+
+`2017-1-20`
+
+- Modify `.gitignore`/`.npmignore`
+- Upgrade devDependencies
+
 ## v0.1.0
 
 `2016-11-18`

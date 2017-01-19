@@ -1,6 +1,6 @@
 {
   "name": "es2015-module-starter",
-  "version": "0.2.1",
+  "version": "0.2.0",
   "description": "A boilerplate for developing es2015+ web modules quickly",
   "main": "index.js",
   "scripts": {
